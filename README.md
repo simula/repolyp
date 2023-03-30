@@ -66,4 +66,3 @@ python scripts/image_sample.py --model_path your/model/path.pt $MODEL_FLAGS $DIF
  
 ```
 ![](polyp-images/interpolation/interpolation-collage.jpg)
-# repolyp
