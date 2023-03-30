@@ -1,0 +1,3 @@
+*.pyc
+guided-diffusion\guided_diffusion\gaussian_diffusion_original.py
+guided-diffusion\guided_diffusion\gaussian_diffusion_interpolation.py
